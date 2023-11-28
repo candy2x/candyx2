@@ -1,0 +1,10 @@
+{
+    "packageUrl": "https://candy2x.net/m/",
+    "searchPaths": [],
+    "assets": {
+    },
+    "remoteVersionUrl": "https://candy2x.net/m/version.manifest",
+    "version": "1.0.0",
+    "engineVersion": "3.17",
+    "remoteManifestUrl": "https://candy2x.net/m/project.manifest"
+}
